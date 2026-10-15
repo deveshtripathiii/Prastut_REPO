@@ -1,0 +1,97 @@
+university_name,location,established_year,university_type,additional_details,latitude,longitude,distance_from_greater_noida_km
+Aligarh Muslim University,Aligarh,1875,Central University,1920 20791,27.876107,78.135815,90.89
+Babasaheb Bhimrao Ambedkar University,Lucknow,1996,Central University,1996 1770,26.8381,80.9346,383.73
+Banaras Hindu University,Varanasi,1916,Central University,1916 30698,25.335649,83.007629,647.65
+Rajiv Gandhi National Aviation University,Raebareli,2013,Central University,2013 N/A,26.208677,81.21863,445.03
+Rani Lakshmi Bai Central Agricultural University,Jhansi,2014,Central University,2014,25.529855,78.65278,346.63
+University of Allahabad,Prayagraj,1876,Central University,1887 22615,25.43813,81.8338,545.94
+Central Institute of Higher Tibetan Studies,Varanasi,1967,Deemed University,Not Specified,25.335649,83.007629,647.65
+Dayalbagh Educational Institute,Agra,1917,Deemed University,Not Specified,27.175255,78.009816,152.78
+Indian Veterinary Research Institute,Bareilly,1889,Deemed University,Not Specified,28.458234,79.404745,185.81
+Jaypee Institute of Information Technology,Noida,2001,Deemed University,Not Specified,28.570633,77.327215,20.32
+Nehru Gram Bharati,Prayagraj,1962,Deemed University,Not Specified,25.43813,81.8338,545.94
+"Sam Higginbottom University of Agriculture, Technology and Sciences",Prayagraj,1910,Deemed University,Not Specified,25.43813,81.8338,545.94
+Santosh Medical College,Ghaziabad,1995,Deemed University,Not Specified,28.774997,77.458697,33.72
+Shobhit Institute of Engineering & Technology,Meerut,2006,Deemed University,Not Specified,29.001856,77.767967,64.05
+Amity University,Noida,2005,Private University,Not Specified,28.570633,77.327215,20.32
+Babu Banarasi Das University,Lucknow,2010,Private University,Not Specified,26.8381,80.9346,383.73
+Bareilly International University,Bareilly,2016,Private University,Not Specified,28.458234,79.404745,185.81
+Bennett University,Greater Noida,2016,Private University,Not Specified,28.467073,77.513765,1.25
+"Chandigarh University, Unnao",Lucknow,2024,Private University,Not Specified,26.8381,80.9346,383.73
+Era University,Lucknow,2016,Private University,Not Specified,26.8381,80.9346,383.73
+F.S. University,Shikohabad,2021,Private University,Not Specified,27.103765,78.588106,186.01
+GLA University,Mathura,2010,Private University,Not Specified,27.495554,77.685555,110.29
+Galgotias University,Greater Noida,2011,Private University,Not Specified,28.467073,77.513765,1.25
+Glocal University,Saharanpur,2012,Private University,Not Specified,29.98568,77.504065,168.05
+IFTM University,Moradabad,2010,Private University,Not Specified,28.879655,78.809534,135.1
+IILM University Greater Noida,Greater Noida,Unknown,Private University,Not Specified,28.467073,77.513765,1.25
+IIMT University,Meerut,2016,Private University,Not Specified,29.001856,77.767967,64.05
+Integral University,Lucknow,2004,Private University,Not Specified,26.8381,80.9346,383.73
+Invertis University,Bareilly,2010,Private University,Not Specified,28.458234,79.404745,185.81
+J.S. University,Shikohabad,2015,Private University,Not Specified,27.103765,78.588106,186.01
+Jagadguru Rambhadracharya Divyanga University,Chitrakoot,2001,Private University,Not Specified,25.217139,81.104593,508.64
+"Jaypee University, Anoopshahr",Anupshahr,2014,Private University,Not Specified,28.357348,78.267872,75.83
+K.M. (Krishna Mohan) University,Mathura,Unknown,Private University,Not Specified,27.495554,77.685555,110.29
+Maharishi University of Information Technology,Lucknow,Unknown,Private University,Not Specified,26.8381,80.9346,383.73
+Mahayogi Gorakhnath University,Gorakhpur,2021,Private University,Not Specified,26.667798,83.364233,611.47
+Major S. D. Singh University,Fatehgarh,Unknown,Private University,Not Specified,27.370075,79.620752,241.51
+Mangalayatan University,Aligarh,2006,Private University,Not Specified,27.876107,78.135815,90.89
+Mohammad Ali Jauhar University,Rampur,2006,Private University,Not Specified,28.793473,79.184581,167.81
+Monad University,Hapur,2010,Private University,Not Specified,28.716677,77.890433,46.36
+Noida International University,Greater Noida,2010,Private University,Not Specified,28.467073,77.513765,1.25
+Rama University,Faizabad,2002,Private University,Not Specified,26.780799,82.148659,494.76
+SDGI Global University,Ghaziabad,Unknown,Private University,Not Specified,28.774997,77.458697,33.72
+Sanskriti University,Mathura,2016,Private University,Not Specified,27.495554,77.685555,110.29
+Sharda University,Greater Noida,2009,Private University,Not Specified,28.467073,77.513765,1.25
+Shiv Nadar University,Greater Noida,Unknown,Private University,Not Specified,28.467073,77.513765,1.25
+Shobhit University,Gangoh,2012,Private University,Not Specified,29.780632,77.262944,147.12
+Shri Ramswaroop Memorial University,Barabanki,2012,Private University,Not Specified,26.942141,81.385609,418.35
+Shri Venkateshwara University,Gajraula,2010,Private University,Not Specified,28.836099,78.245292,82.76
+Swami Vivekanand Subharti University,Meerut,2008,Private University,Not Specified,29.001856,77.767967,64.05
+Teerthanker Mahaveer University,Moradabad,2008,Private University,Not Specified,28.879655,78.809534,135.1
+United University,Prayagraj,Unknown,Private University,Not Specified,25.43813,81.8338,545.94
+Acharya Narendra Deva University of Agriculture and Technology,Faizabad,1975,State University,Not Specified,26.780799,82.148659,494.76
+Allahabad State University,Prayagraj,2016,State University,Not Specified,25.43813,81.8338,545.94
+Atal Bihari Vajpayee Medical University,Lucknow,2020,State University,Not Specified,26.8381,80.9346,383.73
+Banda University of Agriculture and Technology,Banda,2010,State University,Not Specified,25.443854,80.559524,453.02
+Bhatkhande Sanskriti Vishwavidyalaya,Lucknow,1926,State University,Not Specified,26.8381,80.9346,383.73
+Bundelkhand University,Jhansi,1975,State University,Not Specified,25.529855,78.65278,346.63
+Chandra Shekhar Azad University of Agriculture and Technology,Kanpur,1974,State University,Not Specified,26.460914,80.321759,356.92
+Chaudhary Charan Singh University,Meerut,1965,State University,Not Specified,29.001856,77.767967,64.05
+Chhatrapati Shahu Ji Maharaj University,Kanpur,1966,State University,Not Specified,26.460914,80.321759,356.92
+Deen Dayal Upadhyay Gorakhpur University,Gorakhpur,1957,State University,Not Specified,26.667798,83.364233,611.47
+Dr. A. P. J. Abdul Kalam Technical University,Lucknow,2001,State University,Not Specified,26.8381,80.9346,383.73
+Dr. Bhimrao Ambedkar University,Agra,1927,State University,Not Specified,27.175255,78.009816,152.78
+Dr. Rajendra Prasad National Law University,Prayagraj,2020,State University,Not Specified,25.43813,81.8338,545.94
+Dr. Ram Manohar Lohia Avadh University,Faizabad,1975,State University,Not Specified,26.780799,82.148659,494.76
+Dr. Ram Manohar Lohia Institute of Medical Sciences,Lucknow,2006,State University,Not Specified,26.8381,80.9346,383.73
+Dr. Ram Manohar Lohiya National Law University,Lucknow,2005,State University,Not Specified,26.8381,80.9346,383.73
+Dr. Shakuntala Misra National Rehabilitation University,Lucknow,2008,State University,Not Specified,26.8381,80.9346,383.73
+Gautam Buddha University,Gautam Buddha Nagar,2002,State University,Not Specified,28.368716,77.597012,14.86
+Guru Jambheshwar University,Moradabad,2024,State University,Not Specified,28.879655,78.809534,135.1
+Harcourt Butler Technical University,Kanpur,1921,State University,Not Specified,26.460914,80.321759,356.92
+Jagadguru Rambhadracharya Divyang State University,Chitrakoot,2023,State University,Not Specified,25.217139,81.104593,508.64
+Jananayak Chandrashekhar University,Ballia,2016,State University,Not Specified,25.874959,84.121033,715.38
+Kashi Naresh University,Bhadohi,2026,State University,Not Specified,25.424304,82.488392,599.15
+Khwaja Moinuddin Chishti Language University,Lucknow,2010,State University,Not Specified,26.8381,80.9346,383.73
+King George's Medical University,Lucknow,1905,State University,Not Specified,26.8381,80.9346,383.73
+Maa Pateswari University,Balrampur,2024,State University,Not Specified,27.447699,82.395624,493.76
+Maa Shakumbhari University,Saharanpur,1999,State University,Not Specified,29.98568,77.504065,168.05
+Maa Vindhyavasini University,Mirzapur,2024,State University,Not Specified,24.93169,82.628016,643.49
+Madan Mohan Malaviya University of Technology,Gorakhpur,1962,State University,Not Specified,26.667798,83.364233,611.47
+Mahatma Buddha Agriculture and Technology University,Kushinagar,2026,State University,Not Specified,26.743827,83.916232,660.36
+Mahatma Gandhi Kashi Vidyapith,Varanasi,1921,State University,Not Specified,25.335649,83.007629,647.65
+Mahatma Jyotiba Phule Rohilkhand University,Bareilly,1975,State University,Not Specified,28.458234,79.404745,185.81
+Mahayogi Guru Gorakhnath AYUSH University,Gorakhpur,2020,State University,Not Specified,26.667798,83.364233,611.47
+Major Dhyanchand Sports University,Meerut,2022,State University,Not Specified,29.001856,77.767967,64.05
+Raja Mahendra Pratap Singh State University,Aligarh,2021,State University,Not Specified,27.876107,78.135815,90.89
+Sampurnanand Sanskrit Vishwavidyalaya,Varanasi,1791,State University,Not Specified,25.335649,83.007629,647.65
+Sardar Vallabhbhai Patel University of Agriculture and Technology,Meerut,2000,State University,Not Specified,29.001856,77.767967,64.05
+Siddharth University,Siddharthnagar,2015,State University,Not Specified,27.251172,82.871653,544.85
+"Swami Shukdevanand University,",Shahjahanpur,2025,State University,Not Specified,27.912858,79.747625,228.57
+U.P. Pt. Deen Dayal Upadhyaya Veterinary Science University and Cattle Research Institute,Mathura,1947,State University,Not Specified,27.495554,77.685555,110.29
+University of Lucknow,Lucknow,1864,State University,Not Specified,26.8381,80.9346,383.73
+Uttar Pradesh Forestry and Horticulture University,Gorakhpur,2027,State University,Not Specified,26.667798,83.364233,611.47
+Uttar Pradesh Rajarshi Tandon Open University,Prayagraj,1999,State University,Not Specified,25.43813,81.8338,545.94
+Uttar Pradesh University of Medical Sciences,"Saifai, Etawah",2005,State University,Not Specified,26.963949,78.951606,220.25
+Veer Bahadur Singh Purvanchal University,Jaunpur,1987,State University,Not Specified,25.796706,82.488899,576.08
